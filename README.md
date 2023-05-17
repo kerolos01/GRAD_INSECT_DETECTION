@@ -10,3 +10,9 @@ House Sparrow
 Red Crossbill
 Chestnut-crowned Antpitta
 Azara's Spinetail
+
+=================================
+
+palm weevils tree vibes dataset 
+lab folder 
+ac99%
