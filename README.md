@@ -4,7 +4,7 @@ Bird image dataset is "BIRDS 450 SPECIES- IMAGE CLASSIFICATION"
 link: https://www.kaggle.com/datasets/gpiosenka/100-bird-species
 
 sound dataset birds
-link'https://storage.googleapis.com/laurencemoroney-blog.appspot.com/birds_dataset.zip'
+link: https://storage.googleapis.com/laurencemoroney-blog.appspot.com/birds_dataset.zip
 birds are:-
 White-breasted Wood-Wren
 House Sparrow
@@ -13,4 +13,5 @@ Chestnut-crowned Antpitta
 Azara's Spinetail
 
 palm weevils tree vibes dataset from kaggle
+link: https://www.kaggle.com/datasets/potamitis/treevibes
 lab folder 
