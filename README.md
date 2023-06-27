@@ -1,9 +1,10 @@
 # GRAD_INSECT_DETECTION
-birds_dataset_folder = tf.keras.utils.get_file('birds_dataset.zip',
-                                                'https://storage.googleapis.com/laurencemoroney-blog.appspot.com/birds_dataset.zip',
-                                                cache_dir='./',
-                                                cache_subdir='dataset',
-                                                extract=True)
+Image_InceptionV3
+Bird image dataset is "BIRDS 450 SPECIES- IMAGE CLASSIFICATION"
+link: https://www.kaggle.com/datasets/gpiosenka/100-bird-species
+
+sound dataset birds
+link'https://storage.googleapis.com/laurencemoroney-blog.appspot.com/birds_dataset.zip'
 birds are:-
 White-breasted Wood-Wren
 House Sparrow
@@ -11,8 +12,5 @@ Red Crossbill
 Chestnut-crowned Antpitta
 Azara's Spinetail
 
-=================================
-
-palm weevils tree vibes dataset 
+palm weevils tree vibes dataset from kaggle
 lab folder 
-ac99%
